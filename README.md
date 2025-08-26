@@ -13,8 +13,6 @@ Um projeto simples e interativo para realizar sorteios de amigo secreto. Desenvo
 
 ## 🎥 Demonstração
 
-*(**Dica:** Grave um GIF da tela do seu projeto em funcionamento, como no vídeo que você me mostrou, e substitua a imagem abaixo. Sites como [Ezgif](https://ezgif.com/video-to-gif) podem te ajudar a converter um vídeo em GIF)*
-
 ![Demonstração do Sorteador de Amigo Secreto](/assets/demonstracao.gif)
 
 O fluxo de uso é simples:
