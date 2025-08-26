@@ -34,7 +34,7 @@ Nenhuma instalação ou dependência é necessária. Para executar este projeto 
 
 1.  **Faça o clone ou download deste repositório.**
     ```bash
-    git clone [https://github.com/seu-usuario/desafio-amigo-secreto.git](https://github.com/LilianyNunes/challenge-amigo-secreto-alura.git)
+    git clone [https://github.com/LilianyNunes/challenge-amigo-secreto-alura.git](https://github.com/LilianyNunes/challenge-amigo-secreto-alura.git)
     ```
 
 2.  **Navegue até a pasta do projeto.**
