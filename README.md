@@ -4,6 +4,12 @@
 
 Um projeto simples e interativo para realizar sorteios de amigo secreto. Desenvolvido como um desafio para praticar lógica de programação com JavaScript, a aplicação permite que os usuários adicionem nomes a uma lista e, com um clique, sorteiem um participante de forma aleatória.
 
+##
+
+🔗 **Ver Projeto Online:** [https://lilianynunes.github.io/challenge-amigo-secreto-alura/](https://lilianynunes.github.io/challenge-amigo-secreto-alura/)
+
+##
+
 ## ✨ Funcionalidades
 
 - **Adicionar Amigos:** Campo de texto para inserir nomes na lista de participantes.
